@@ -23,7 +23,6 @@ to your team. I have proficiency in frontend technologies like ReactJs, Redux, J
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
 
-
 </td><td valign="top" width="50%">
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
