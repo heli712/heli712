@@ -18,17 +18,9 @@ to your team. I have proficiency in frontend technologies like ReactJs, Redux, J
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-
-</td><td valign="top" width="50%">
-
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
-
-
-</td></tr></table>  
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div> 
 
 <br/>  
 
